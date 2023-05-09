@@ -4,7 +4,6 @@ from matplotlib import pyplot as plt
 from scipy.interpolate import interp1d
 
 data = pd.read_csv('VC.txt', header=1, delim_whitespace=True)
-
 x = data.iloc[:,0].values
 y = data.iloc[:,1].values
 
