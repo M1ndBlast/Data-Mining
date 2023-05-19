@@ -119,7 +119,7 @@ TOTAL_VOTOS_CALCULADO,LISTA_NOMINAL,REPRESENTANTES_PP_CI,OBSERVACIONES,CONTABILI
 	24. PT - Número de votos para el Partido del Trabajo
 
 	25. PT - Número de votos para el Partido Local Convergencia Querétaro
-
+	
 	26. PT - Número de votos para el Partido Local Querétaro Independiente
 
 	27. PVEM - Número de votos para el Partido Verde Ecologista de México
